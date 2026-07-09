@@ -41,7 +41,7 @@ Feedback:   https://github.com/Fission-AI/OpenSpec/issues
 
 Restart your IDE for slash commands to take effect.
 
-lisan@kraftwek:/data/workspace/Modulo 2: Spec-Driven Development/ai4devs-openspect-sandbox-202606-roo$ ls -R openspec/
+lisan@kraftwek:/data/workspace/Modulo 2: Spec-Driven Development/openspec-sandbox$ ls -R openspec/
 openspec/:
 changes  config.yaml  specs
 
@@ -49,6 +49,20 @@ openspec/changes:
 archive
 
 openspec/changes/archive:
+2026-07-09-add-oauth-integration
+
+openspec/changes/archive/2026-07-09-add-oauth-integration:
+design.md  proposal.md  specs  tasks.md
+
+openspec/changes/archive/2026-07-09-add-oauth-integration/specs:
+oauth-integration
+
+openspec/changes/archive/2026-07-09-add-oauth-integration/specs/oauth-integration:
+spec.md
 
 openspec/specs:
+oauth-integration
 
+openspec/specs/oauth-integration:
+spec.md
+lisan@kraftwek:/data/workspace/Modulo 2: Spec-Driven Development/openspec-sandbox$ 
