@@ -10,7 +10,7 @@
 *Pilar 3 — Prompt:* ¿Cómo lo estructuras? (estilo, formato de salida, ejemplos…)
  Pega aquí el prompt final que vas a lanzar.
 
-``'md
+``'text
 Exporta datos estructurados desde unas facturas electronicas de electricidad.
 
 - Muestralo por pantalla.
@@ -78,6 +78,6 @@ lisan@kraftwek:/data/workspace/Modulo 2: Spec-Driven Development/openspec-sandbo
 ```
 
 ## Tres observaciones de la exploración de OpenSpec:
-    - Mis comandos en codex son del tipo $openspec-XXX, no /opsx:X. No logre entender si era problema de mi setup o que simplemente OpenSpec no ha migrado los nuevos comandos en su setup para codex.
-    - Me pareció una herramienta muy potente, pero me queda la duda de cómo sincronizar tras editar manualmente alguno de los 4 artefactos generados.
-    - Investigué el workflow/profile alternativo, y me pareció más flexible
+- Mis comandos en codex son del tipo $openspec-XXX, no /opsx:X. No logre entender si era problema de mi setup o que simplemente OpenSpec no ha migrado los nuevos comandos en su setup para codex.
+- Me pareció una herramienta muy potente, pero me queda la duda de cómo sincronizar tras editar manualmente alguno de los 4 artefactos generados.
+- Investigué el workflow/profile alternativo, y me pareció más flexible
