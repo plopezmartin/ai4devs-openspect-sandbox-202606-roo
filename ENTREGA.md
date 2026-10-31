@@ -10,7 +10,7 @@
 *Pilar 3 — Prompt:* ¿Cómo lo estructuras? (estilo, formato de salida, ejemplos…)
  Pega aquí el prompt final que vas a lanzar.
 
-``'text
+```text
 Exporta datos estructurados desde unas facturas electronicas de electricidad.
 
 - Muestralo por pantalla.
