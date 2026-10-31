@@ -26,7 +26,7 @@ Si tienes dudas, pregunta.
 *Resultado:* ¿Funcionó a la primera o tuviste que iterar? funciono a la primera
  Una mejora que harías si volvieras a hacerlo. Especificarle que lo quiero en formato YML.
 
-# PARTE 2
+# PARTE B
 
 ```bash
 lisan@kraftwek:/data/workspace/Modulo 2: Spec-Driven Development/ai4devs-openspect-sandbox-202606-roo$ openspec --version
